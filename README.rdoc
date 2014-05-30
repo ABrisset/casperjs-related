@@ -1,6 +1,6 @@
 This CasperJS script lets you query Google for a keyword. Then it aggregates the related search queries in an Array and output the result to the console.
 
-Run the script in your terminal the following way :
+Run the script in your terminal in the following way :
 casperjs ./related.js "your keyword"
 
 That's it !
