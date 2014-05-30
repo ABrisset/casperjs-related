@@ -5,4 +5,5 @@ casperjs ./related.js "your keyword"
 
 That's it !
 
+-----------
 Tested with CasperJS version 1.1.0-beta3
